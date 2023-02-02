@@ -1,0 +1,6 @@
+name: scope-graph
+depend:
+  standard-library
+  kl-prelude
+  finite
+include: src/
